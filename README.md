@@ -1,6 +1,10 @@
 # Friends_API
-Friends_API_Project will be analyzed
-Site URL https://www.omdbapi.com/
+
+In this project, friends movie analyzed by API.
+API URL was taken from https://www.omdbapi.com/
+Also json editor pages were used.
+
+
 
 
 ### Json Editor Pages
